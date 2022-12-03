@@ -1,6 +1,6 @@
 # FIREFLY
 
-Cloud based blogging app that helps you get in the zone with a little help from music
+Cloud-based blogging app that helps you get in the zone with a little help from music
 
 ---
 
