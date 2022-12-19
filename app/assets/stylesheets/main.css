@@ -11,8 +11,8 @@
     border-width: thin;
     border-color: grey;
     border-style: dashed;
-   /*border: 1 dotted;*/
-    width: 80%;
+    height: 80%;
+    width: 60%;
     margin: 2em;
     padding: 2em;
 }
