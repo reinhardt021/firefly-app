@@ -32,3 +32,12 @@ Things you may want to cover:
 ---
 
 <!--SCREENSHOT-->
+
+---
+
+## TODO
+
+- [ ] React front end
+- [ ] Rails API
+- [ ] React Native for mobile options offline
+
