@@ -44,18 +44,24 @@ Things you may want to cover:
 
 ## TODO
 
-- [ ] get background showing
 - [x] get dotted lines showing
 - [x] get blinking cursor
-- [ ] have input field be the main 
-- [ ] have input field have clear background
-- [ ] have input field have dashed border
+- [ ] get background showing
+- [ ] have text area centered and sidebar just to side
+
+- [ ] have text area field be the main 
+- [ ] have text area field have clear background
+- [ ] have text area field have dashed border
+
 - [ ] menu on hover or moving mouse
 - [ ] select options for font and other things
+
 - [ ] have dotted lines dissappear when typing 
 - [ ] have dotted lines dissappear after few secs 
 - [ ] have the menu dissappear when typing
 - [ ] have the menu dissappear after few secs
+
+- [ ] have adjustable text area
 
 - [ ] Deepwork = offline use
 - [ ] React front end
