@@ -47,6 +47,7 @@
 .menu-row {
     display: flex;
     justify-content: flex-start;
+    align-items: center;
 }
 
 .menu-item {
@@ -70,6 +71,7 @@
 }
 
 .menu-option {
+    font-size: 0.85em;
     background: rgba(0,0,0,0.45);
 }
 .menu-option:hover {
