@@ -14,23 +14,21 @@
     width: 60%;
 }
 
-.main {
-    margin: 0 1em;
-    border-width: thin;
-    border-color: grey;
-    border-style: dashed;
-    padding: 2em;
-    height: 80%;
-    width: 60%;
-}
 
 .main_text {
     border-width: thin;
     border-color: grey;
     border-style: dashed;
-    background: rgba(0,0,0,0.1);
+    border-radius: 5px;
     height: 80%;
     width: 60%;
+    background: rgba(0,0,0,0.01);
+    padding: 2em;
+    font-family: sans-serif;
+}
+
+.main_text:focus {
+    outline-width: 0;
 }
 
 .sidebar {
