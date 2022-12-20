@@ -24,6 +24,15 @@
     width: 60%;
 }
 
+.main_text {
+    border-width: thin;
+    border-color: grey;
+    border-style: dashed;
+    background: rgba(0,0,0,0.1);
+    height: 80%;
+    width: 60%;
+}
+
 .sidebar {
     align-self: flex-start;
 }
