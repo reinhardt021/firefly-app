@@ -44,48 +44,58 @@ Things you may want to cover:
 
 ## TODO
 
-- [x] get dotted lines showing
-- [x] get blinking cursor
-- [x] create menu items
-- [x] have text area field be the main 
-- [ ] create higher contrast menu coloring
-- [ ] css toggles for color and size
+### MVP
 
-- [x] have text area field have clear background
-- [x] have text area field have dashed border
-- [ ] have text area centered and sidebar just to side
+- [x] textarea: get dotted lines showing
+- [x] textarea: be the main 
+- [x] textarea: adjustable
+- [x] menu: create items
+
+- [x] textarea: clear background
+- [x] textarea: dashed border
+- [x] menu: on hover or moving mouse
+- [x] menu: dim options except selected
+- [x] have text area centered and sidebar just to side // ignored
 
 - [ ] get background showing
-- [ ] menu: dim options except selected
+
+- [ ] menu: create higher contrast menu
+    - [ ] menu: find dark svg icons
+    - [ ] menu: find light svg icons
 - [ ] menu: text toggle for font family
 - [ ] menu: text size toggle
 - [ ] menu: toggle backgrounds
+    - [ ] menu: default px.png
 - [ ] menu: toggle music
+    - [ ] menu: default wind
 - [ ] menu: toggle keyboard sounds
+    - [ ] menu: default none
 - [ ] menu: toggle save settings
+    - [ ] menu: default save to md
 
-- [ ] menu on hover or moving mouse
-- [ ] select options for font and other things
+- [ ] frontend: React front end
+- [ ] textarea: get blinking cursor // maybe React
+- [ ] textarea: cursor always @ end of sentence when typing
+- [ ] textarea: have dotted lines dissappear when typing 
+- [ ] textarea: have dotted lines dissappear after few secs 
+- [ ] menu: dissappear when typing
+- [ ] menu: dissappear after few secs
+- [ ] menu: on click select options 
 
-- [ ] have dotted lines dissappear when typing 
-- [ ] have dotted lines dissappear after few secs 
+- [ ] backend: Rails API
+- [ ] backend: user profile
+- [ ] backend: save note
 
-- [ ] have the menu dissappear when typing
-- [ ] have the menu dissappear after few secs
+- [ ] 
+ 
+### STRETCH
 
-- [ ] have cursor always at the end of the sentence whenever typing
-
-- [ ] have adjustable text area
-
-- [ ] Deepwork = offline use
-- [ ] React front end
-- [ ] Rails API
-- [ ] saving will sync with your services
-- [ ] React Native for mobile options offline
-
-- [ ] register hot keys to 
-- [ ] register hot keys to save file
-- [ ] register hot keys to sync file
-
+- [ ] config: Deepwork = offline use chrome extension?
+- [ ] backend: saving will sync with your services
+- [ ] frontend: React Native for mobile options offline
+- [ ] config: register hot keys to 
+- [ ] config: register hot keys to save file
+- [ ] config: register hot keys to sync file
+- [ ] config: save to yaml file
 - [ ] 
 

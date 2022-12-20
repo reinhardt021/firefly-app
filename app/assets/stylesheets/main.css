@@ -30,6 +30,15 @@
     outline: none;
 }
 
+.main-typing {
+    border-color: transparent;
+    background: transparent;
+    resize: none;
+}
+.sidebar-typing {
+    visibility: hidden;
+}
+
 
 .sidebar {
     align-self: flex-start;
