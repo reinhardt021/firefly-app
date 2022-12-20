@@ -56,8 +56,10 @@ Things you may want to cover:
 - [x] menu: on hover or moving mouse
 - [x] menu: dim options except selected
 - [x] have text area centered and sidebar just to side // ignored
+- [x] get background showing
 
-- [ ] get background showing
+- [ ] frontend: React using Next.js
+- [ ] config: use Docker for front end & back end
 
 - [ ] menu: create higher contrast menu
     - [ ] menu: find dark svg icons
@@ -73,7 +75,6 @@ Things you may want to cover:
 - [ ] menu: toggle save settings
     - [ ] menu: default save to md
 
-- [ ] frontend: React front end
 - [ ] textarea: get blinking cursor // maybe React
 - [ ] textarea: cursor always @ end of sentence when typing
 - [ ] textarea: have dotted lines dissappear when typing 
