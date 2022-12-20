@@ -33,6 +33,7 @@ body {
 
 .bg1 {
     background: url('pz.jpg');
+    background-size: cover;
 }
 
 
