@@ -47,12 +47,12 @@ Things you may want to cover:
 - [x] get dotted lines showing
 - [x] get blinking cursor
 - [x] create menu items
-- [ ] have text area field be the main 
+- [x] have text area field be the main 
 - [ ] create higher contrast menu coloring
 - [ ] css toggles for color and size
 
-- [ ] have text area field have clear background
-- [ ] have text area field have dashed border
+- [x] have text area field have clear background
+- [x] have text area field have dashed border
 - [ ] have text area centered and sidebar just to side
 
 - [ ] get background showing

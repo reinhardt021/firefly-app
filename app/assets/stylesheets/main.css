@@ -25,11 +25,10 @@
     background: rgba(0,0,0,0.01);
     padding: 2em;
     font-family: sans-serif;
+    /*cursor: '_'; // doesn't work*/ 
+    outline: none;
 }
 
-.main_text:focus {
-    outline-width: 0;
-}
 
 .sidebar {
     align-self: flex-start;
