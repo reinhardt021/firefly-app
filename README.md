@@ -75,6 +75,8 @@ Things you may want to cover:
 - [ ] menu: toggle save settings
     - [ ] menu: default save to md
 
+- [ ] textarea: resize one side at a time
+- [ ] textarea: can drag and move from border
 - [ ] textarea: get blinking cursor // maybe React
 - [ ] textarea: cursor always @ end of sentence when typing
 - [ ] textarea: have dotted lines dissappear when typing 
