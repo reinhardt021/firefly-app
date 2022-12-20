@@ -15,7 +15,7 @@
 }
 
 
-.main_text {
+.main {
     margin: 0 1em;
     border-width: thin;
     border-color: grey;
@@ -30,27 +30,27 @@
     outline: none;
 }
 
-.main-typing {
+.main--typing {
     border-color: transparent;
     background: transparent;
     resize: none;
 }
-.sidebar-typing {
+.menu--typing {
     visibility: hidden;
 }
 
 
-.sidebar {
+.menu {
     align-self: flex-start;
 }
 
-.menu-row {
+.menu__row {
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
-.menu-item {
+.menu__item {
     margin: 0.25em 0.05em;
     border-radius: 100%;
     width: 2em;
@@ -64,21 +64,21 @@
     text-shadow: 0 1px 5px rgba(255, 255, 255, 0.35);
 }
 
-.menu-row .menu-option {
+.menu__row .menu__option {
     visibility: hidden;
 }
-.menu-row:hover .menu-option {
+.menu__row:hover .menu__option {
     visibility: visible;
 }
 
-.menu-option {
+.menu__option {
     font-size: 0.85em;
     background: rgba(0,0,0,0.45);
 }
-.menu-option:hover {
+.menu__option:hover:not(.menu__option--selected) {
     background: rgba(0,0,0,0.25);
 }
-.menu-option-selected {
+.menu__option--selected {
     background: rgba(0,0,0,0.65);
 }
 
