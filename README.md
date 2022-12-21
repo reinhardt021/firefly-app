@@ -64,9 +64,9 @@ default to very little heard
 
 low volume
 but we should test it all
-- [ ] config: use Docker for front end & back end
+- [ ] config: use 
 
-- [ ] menu: create higher contrast menu
+- [ ] 
     - [ ] menu: find dark svg icons
     - [ ] menu: find light svg icons
 - [ ] menu: text toggle for font family
@@ -80,6 +80,10 @@ but we should test it all
 - [ ] menu: toggle save settings
     - [ ] menu: default save to md
 
+- [ ] textarea: font - sans-serif
+- [ ] textarea: font - serif
+- [ ] textarea: font - script
+- [ ] textarea: font - monospaced // typewriter style
 - [ ] textarea: resize one side at a time
 - [ ] textarea: can drag and move from border
 - [ ] textarea: get blinking cursor // maybe React
