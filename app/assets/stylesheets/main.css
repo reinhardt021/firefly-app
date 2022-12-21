@@ -114,13 +114,24 @@
 
 .menu__option {
     font-size: 0.85em;
+}
+.menu__option--light {
     background: rgba(0,0,0,0.45);
 }
-.menu__option:hover:not(.menu__option--selected) {
+.menu__option--light:hover:not(.menu__option--selected-light) {
     background: rgba(0,0,0,0.25);
 }
-.menu__option--selected {
+.menu__option--selected-light {
     background: rgba(0,0,0,0.65);
+}
+.menu__option--dark {
+    background: rgba(255,255,255,0.45);
+}
+.menu__option--dark:hover:not(.menu__option--selected-dark) {
+    background: rgba(255,255,255,0.25);
+}
+.menu__option--selected-dark {
+    background: rgba(255,255,255,0.65);
 }
 
 .blinking-cursor {
