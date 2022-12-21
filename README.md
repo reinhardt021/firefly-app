@@ -59,6 +59,11 @@ Things you may want to cover:
 - [x] get background showing
 
 - [ ] frontend: React using Next.js
+how to get m1 
+default to very little heard
+
+low volume
+but we should test it all
 - [ ] config: use Docker for front end & back end
 
 - [ ] menu: create higher contrast menu
