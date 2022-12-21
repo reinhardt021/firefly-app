@@ -76,7 +76,7 @@ but we should test it all
     - [ ] textarea: font size small
     - [ ] textarea: font size medium
     - [ ] textarea: font size large
-- [ ] menu: toggle backgrounds
+- [ ] menu: toggle backgrounds // could use circle divs with gradients
     - [ ] menu: light - svg icons
     - [ ] menu: dark - svg icons
     - [ ] menu: px.png // default
