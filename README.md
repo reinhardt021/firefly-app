@@ -66,24 +66,33 @@ low volume
 but we should test it all
 - [ ] config: use 
 
-- [ ] 
-    - [ ] menu: find dark svg icons
-    - [ ] menu: find light svg icons
+- [ ] menu: 3 OPTIONS + settings button for each
 - [ ] menu: text toggle for font family
+    - [ ] textarea: font - sans-serif
+    - [ ] textarea: font - serif
+    - [ ] textarea: font - script
+    - [ ] textarea: font - monospaced // typewriter style STRETCH
 - [ ] menu: text size toggle
+    - [ ] textarea: font size small
+    - [ ] textarea: font size medium
+    - [ ] textarea: font size large
 - [ ] menu: toggle backgrounds
-    - [ ] menu: default px.png
+    - [ ] menu: light - svg icons
+    - [ ] menu: dark - svg icons
+    - [ ] menu: px.png // default
 - [ ] menu: toggle music
-    - [ ] menu: default wind
+    - [ ] menu: rain
+    - [ ] menu: wind // default
+    - [ ] menu: fire
 - [ ] menu: toggle keyboard sounds
-    - [ ] menu: default none
+    - [ ] menu: none // default
+    - [ ] menu: mechanical
+    - [ ] menu: stubs
 - [ ] menu: toggle save settings
-    - [ ] menu: default save to md
+    - [ ] menu: save to md // default
+    - [ ] menu: email text
+    - [ ] menu: pdf save
 
-- [ ] textarea: font - sans-serif
-- [ ] textarea: font - serif
-- [ ] textarea: font - script
-- [ ] textarea: font - monospaced // typewriter style
 - [ ] textarea: resize one side at a time
 - [ ] textarea: can drag and move from border
 - [ ] textarea: get blinking cursor // maybe React
@@ -96,14 +105,14 @@ but we should test it all
 
 - [ ] backend: Rails API
 - [ ] backend: user profile
-- [ ] backend: save note
+- [ ] backend: save note automatically
 
 - [ ] 
  
 ### STRETCH
 
 - [ ] config: Deepwork = offline use chrome extension?
-- [ ] backend: saving will sync with your services
+- [ ] backend: saving will sync with your services - ex: Dropbox
 - [ ] frontend: React Native for mobile options offline
 - [ ] config: register hot keys to 
 - [ ] config: register hot keys to save file
