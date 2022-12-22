@@ -58,50 +58,44 @@ Things you may want to cover:
 - [x] have text area centered and sidebar just to side // ignored
 - [x] get background showing
 
-- [ ] frontend: React using Next.js
-how to get m1 
-default to very little heard
-
-low volume
-but we should test it all
+- [x] frontend: React using Next.js
 - [ ] config: use 
 
-- [ ] menu: 3 OPTIONS + settings button for each
-- [ ] menu: text toggle for font family
-    - [ ] textarea: font - sans-serif
-    - [ ] textarea: font - serif
-    - [ ] textarea: font - script
-    - [ ] textarea: font - monospaced // typewriter style STRETCH
-- [ ] menu: text size toggle
-    - [ ] textarea: font size small
-    - [ ] textarea: font size medium
-    - [ ] textarea: font size large
-- [ ] menu: toggle backgrounds // could use circle divs with gradients
-    - [ ] menu: light - svg icons
-    - [ ] menu: dark - svg icons
-    - [ ] menu: px.png // default
+- [x] menu: 3 OPTIONS + settings button for each
+- [x] menu: on click select options 
+- [x] menu: text toggle for font family
+    - [x] textarea: font - sans-serif
+    - [x] textarea: font - serif
+    - [x] textarea: font - script
+- [x] menu: text size toggle
+    - [x] textarea: font size small
+    - [x] textarea: font size medium
+    - [x] textarea: font size large
+- [x] menu: toggle backgrounds // could use circle divs with gradients
+    - [x] menu: light - svg icons
+    - [x] menu: dark - svg icons
+    - [x] menu: px.png // default
 - [ ] menu: toggle music
-    - [ ] menu: rain
-    - [ ] menu: wind // default
     - [ ] menu: fire
-- [ ] menu: toggle keyboard sounds
-    - [ ] menu: none // default
-    - [ ] menu: mechanical
-    - [ ] menu: stubs
-- [ ] menu: toggle save settings
-    - [ ] menu: save to md // default
-    - [ ] menu: email text
-    - [ ] menu: pdf save
+    - [ ] menu: wind // default
+    - [ ] menu: rain
+    - how to get m1 
+      - default to very little heard
+      - low volume
+      - but we should test it all
+- [x] menu: toggle save settings
+    - [x] menu: save to md // default
+    - [x] menu: email text
 
-- [ ] textarea: resize one side at a time
-- [ ] textarea: can drag and move from border
-- [ ] textarea: get blinking cursor // maybe React
-- [ ] textarea: cursor always @ end of sentence when typing
 - [ ] textarea: have dotted lines dissappear when typing 
 - [ ] textarea: have dotted lines dissappear after few secs 
 - [ ] menu: dissappear when typing
 - [ ] menu: dissappear after few secs
-- [ ] menu: on click select options 
+
+- [ ] textarea: get blinking cursor // maybe React
+- [ ] textarea: cursor always @ end of sentence when typing
+- [ ] textarea: resize one side at a time
+- [ ] textarea: can drag and move from border
 
 - [ ] backend: Rails API
 - [ ] backend: user profile
@@ -118,5 +112,11 @@ but we should test it all
 - [ ] config: register hot keys to save file
 - [ ] config: register hot keys to sync file
 - [ ] config: save to yaml file
+- [ ] textarea: font - monospaced // typewriter style STRETCH
+- [ ] menu: toggle keyboard sounds // STRETCH
+    - [ ] menu: none // default
+    - [ ] menu: mechanical
+    - [ ] menu: stubs
+- [ ] menu: pdf save // STRETCH
 - [ ] 
 
