@@ -87,19 +87,11 @@ Things you may want to cover:
     - [x] menu: save to md // default
     - [x] menu: email text
 
-- [ ] textarea: have dotted lines dissappear when typing 
-- [ ] textarea: have dotted lines dissappear after few secs 
-- [ ] menu: dissappear when typing
-- [ ] menu: dissappear after few secs
+- [x] textarea: have dotted lines dissappear when typing 
+- [x] menu: dissappear when typing
 
-- [ ] textarea: get blinking cursor // maybe React
-- [ ] textarea: cursor always @ end of sentence when typing
-- [ ] textarea: resize one side at a time
 - [ ] textarea: can drag and move from border
 
-- [ ] backend: Rails API
-- [ ] backend: user profile
-- [ ] backend: save note automatically
 
 - [ ] 
  
@@ -113,10 +105,16 @@ Things you may want to cover:
 - [ ] config: register hot keys to sync file
 - [ ] config: save to yaml file
 - [ ] textarea: font - monospaced // typewriter style STRETCH
+- [ ] textarea: get blinking cursor // maybe React
+- [ ] textarea: cursor always @ end of sentence when typing
+- [ ] textarea: resize one side at a time
 - [ ] menu: toggle keyboard sounds // STRETCH
     - [ ] menu: none // default
     - [ ] menu: mechanical
     - [ ] menu: stubs
 - [ ] menu: pdf save // STRETCH
+- [ ] backend: Rails API
+- [ ] backend: user profile
+- [ ] backend: save note automatically
 - [ ] 
 
